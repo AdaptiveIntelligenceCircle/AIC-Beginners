@@ -11,7 +11,7 @@ Status labels are approximate and will change. Prefer the README of each reposit
 
 | Repository | Role | Priority for newcomers |
 |------------|------|------------------------|
-| **AIC-Start-Here** (this repo) | Orientation, glossary, first-week path | Read first |
+| **AIC-Beginners** (this repo) | Orientation, glossary, first-week path | Read first |
 | **MyVision** / principle docs | Explicit “is / is not”, entity ≠ immunity, letters | High |
 | **AIC-Whitepaper** (or equivalent chapters) | Structured long-form argument and scope | Medium–High after orientation |
 
