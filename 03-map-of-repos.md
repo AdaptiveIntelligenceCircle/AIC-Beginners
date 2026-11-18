@@ -62,7 +62,7 @@ Website content must stay aligned with under-claim documents. If the site and th
 
 ## Suggested reading / clone order for a careful newcomer
 
-1. This repo (AIC-Start-Here) — full pass of the numbered files.
+1. This repo (AIC-Beginners) — full pass of the numbered files.
 2. Principle / “is and is not” materials.
 3. Map of phase and Covenant criteria (read, do not implement binding claims).
 4. One implementation or testing area you actually want to work on (e.g. TestNet tests, docs, transparency sketches).
